@@ -139,6 +139,6 @@ CORS_ALLOW_ALL_ORIGINS = False
 CORS_ALLOW_CREDENTIALS = True
 
 CORS_ALLOWED_ORIGINS = [
-    'http:// ',
-    'https:// ',
+    "http://localhost:5173",
+    "https://localhost:5173",
 ]
